@@ -1,5 +1,4 @@
 # spatify
----
 demo: https://warm-forest-47596.herokuapp.com/
 
 ## What is the purpose of spatify?
